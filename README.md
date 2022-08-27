@@ -1,24 +1,69 @@
-# README
+![](https://img.shields.io/badge/Microverse-blueviolet)
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+# Hello React Rails
 
-Things you may want to cover:
+> Setup for react rails and webpacker
 
-* Ruby version
+## Built With
 
-* System dependencies
+- rails, react, redux
+- react-rails, webpacker
 
-* Configuration
+## Live Demo (if available)
 
-* Database creation
+[Live Demo Link](https://livedemo.com)
 
-* Database initialization
+## Getting Started
 
-* How to run the test suite
+To get a local copy up and running follow these simple example steps.
 
-* Services (job queues, cache servers, search engines, etc.)
+### Prerequisites
 
-* Deployment instructions
+- node, rails
 
-* ...
+### Setup
+
+- clone repo
+- cd into repo
+
+### Install
+
+- npm install
+- bundle
+
+### Usage
+
+- rails s
+- ./bin/webpack-dev-server
+
+### Run tests
+
+### Deployment
+
+## Authors
+
+👤 **Isaka Lumato**
+
+- GitHub: [@isaka-lumato](https://github.com/isaka-lumato)
+- Twitter: [@isaka-lumato](https://twitter.com/isaka-lumato)
+- LinkedIn: [isaka-lumato](https://linkedin.com/in/isaka-lumato)
+
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the [issues page](../../issues/).
+
+## Show your support
+
+Give a ⭐️ if you like this project!
+
+## Acknowledgments
+
+- Hat tip to anyone whose code was used
+- Inspiration
+- etc
+
+## 📝 License
+
+This project is [MIT](./LICENSE) licensed.
